@@ -45,9 +45,6 @@ Es requerido que se tenga conocimientos en VSCode, GitHub y en el lenguaje de pr
 
 Si deseas contribuir, ¡no dudes en hacer un pull request!
 
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado.
 
 ## Autor ✒️
 
