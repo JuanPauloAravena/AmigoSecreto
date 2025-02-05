@@ -54,18 +54,12 @@ Usamos [SemVer](http://semver.org/) para el versionado.
 * **Juan Paulo Aravena** - *Desarrollador* -
 
 
-## Licencia 📄
-
-Este proyecto está licenciado bajo la [MIT License](https://opensource.org/licenses/MIT).
-
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita un café ☕ a alguien del equipo. 
-* Da las gracias públicamente, si utilizas parte del codigo 🤓.
+* Comenta a sobre este proyecto 📢
+* Invita un café ☕. 
+* Da las gracias públicamente.
 * Si tienes sugerencias o encuentras problemas, abre un issue en el repositorio.
 * ¡Gracias por usar el Juego de Amigos!
-
-
 
 ---
